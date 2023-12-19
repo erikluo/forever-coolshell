@@ -10,7 +10,11 @@
 
 ## 文章目录
 - [TCP 的那些事儿（上）](http://coolshell.tool333.com/articles/11564.html)
-
+### http
+- [一把梭：REST API 全用 POST](https://coolshell.cn/articles/22173.html)
+- [HTTP幂等性概念和应用](https://coolshell.cn/articles/4787.html)
+- [HTTP的前世今生](https://coolshell.cn/articles/19840.html)
+- [HTTP API 认证授权术](https://coolshell.cn/articles/19395.html)
   
 ## 使用方法
 
